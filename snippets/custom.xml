@@ -41,7 +41,7 @@
   <project path="packages/apps/ColumbusService" name="packages_apps_ColumbusService" remote="PixelOS" />
   <project path="packages/apps/ParanoidSense" name="packages_apps_ParanoidSense" remote="PixelOS" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="PixelOS" />
-  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="schoosh" />
+  <project path="packages/apps/Updater" name="packages_apps_Updater-pos" remote="schoosh" />
   <project path="vendor/aosp" name="vendor_aosp" remote="PixelOS" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="PixelOS" />
   <project path="vendor/gms" name="vendor_gms" clone-depth="1" remote="PixelOS-Gitlab" />
